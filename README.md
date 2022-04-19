@@ -6,7 +6,7 @@ Your task is to make this simple OpenID Connect application work properly. To do
 
 2. Fix the function randomHex.
 
-3. Validate the digital signature in the 'idToken' with the correct google public key.
+3. Validate the digital signature in the 'idToken' with the correct Google public key.
 
 4. Bonus points: Check 'iss', 'aud', and 'exp'.
 
