@@ -11,4 +11,4 @@ Your task is to make this simple OpenID Connect application work properly. To do
 4. Bonus points: Check 'iss', 'aud', and 'exp'.
 
 ## Submission
-Please drop me an email with your app :) Good luck!
+Please submit main.go to Moodle. Good luck! :)
